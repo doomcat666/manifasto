@@ -1,0 +1,48 @@
+body{
+ background-color: black;}
+h1{
+    text-align: center;
+    color: red;
+    font-family: 'Comforter Brush', cursive;
+}
+.gif{display: flex; 
+    justify-content: center; 
+    align-items: center;}
+img.resize {
+  max-width:7%;
+  max-height:50%;
+position: absolute;
+right: 47%;
+}
+p{
+    color: red;
+    position: absolute;
+left:35%;
+bottom: 200px;
+
+}
+img.resize2 {
+    max-width:710%;
+    max-height:50%;
+  position: absolute;
+  right: 55%;}
+  img.resize3 {
+    max-width:710%;
+    max-height:50%;
+  position: absolute;
+  left: 59%;}
+  img.resize5 {
+    max-width:6%;
+    max-height:50%;
+  position: absolute;
+  bottom: 29%;
+  left: 959px;
+  }
+  img.resize6 {
+    max-width:6%;
+    max-height:50%;
+  position: absolute;
+  bottom: 29%;
+  left: 720px;
+  }
+ 
