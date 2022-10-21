@@ -3,46 +3,67 @@ body{
 h1{
     text-align: center;
     color: red;
-    font-family: 'Comforter Brush', cursive;
+    font-family: 'Anonymous Pro', monospace;
+
 }
-.gif{display: flex; 
-    justify-content: center; 
-    align-items: center;}
+
 img.resize {
-  max-width:7%;
+  max-width:100%;
   max-height:50%;
 position: absolute;
-right: 47%;
+right: 45%;
 }
 p{
     color: red;
     position: absolute;
-left:35%;
-bottom: 200px;
-
+left:39%;
+top: 300px;
+font-family: 'Anonymous Pro', monospace;
 }
-img.resize2 {
-    max-width:710%;
+.pos{
+position: absolute;
+bottom: 58%;
+left: 610px;
+}
+.pos2{
+  max-width:30%;
     max-height:50%;
   position: absolute;
-  right: 55%;}
-  img.resize3 {
-    max-width:710%;
+  bottom: 19%;
+  left: 620px;
+}
+.pos1{
+  max-width:30%;
     max-height:50%;
   position: absolute;
-  left: 59%;}
-  img.resize5 {
-    max-width:6%;
+  bottom: 55%;
+  left: 820px;
+} 
+.pos3{
+  max-width:100%;
+  max-height:50%;
+position: absolute;
+right: 60%;
+}
+.pos4{
+  max-width:100%;
+  max-height:50%;
+position: absolute;
+left: 60%;
+}
+.center{
+  max-width:100%;
+  max-height:50%;
+position: absolute;
+right: 47%;
+bottom: 10%;
+}
+h3{
+    color: red;
+    font-family: 'Anonymous Pro', monospace;
+    max-width:100%;
     max-height:50%;
   position: absolute;
-  bottom: 29%;
-  left: 959px;
-  }
-  img.resize6 {
-    max-width:6%;
-    max-height:50%;
-  position: absolute;
-  bottom: 29%;
-  left: 720px;
-  }
- 
+  right: 47%;
+  bottom: 10%;
+}

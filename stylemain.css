@@ -1,14 +1,51 @@
 body{
     background-color: black;}
-h3{
+p{
     color: red;
     text-align: center;
+    font-family: 'Anonymous Pro', monospace;
 }
-img.resize {
-    max-width:7%;
+h3{
+    color: red;
+    font-family: 'Anonymous Pro', monospace;
+    max-width:100%;
     max-height:50%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
+  position: absolute;
+  right: 47%;
+  bottom: 10%;
+}
+
+.hover14 figure:hover img {
+	opacity: 1;
+	-webkit-animation: flash 1.5s;
+	animation: flash 1.5s;
+    
+}
+@-webkit-keyframes flash {
+	0% {
+		opacity: .4;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+@keyframes flash {
+	0% {
+		opacity: .4;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+h2{ color: red;
+    font-family: 'Anonymous Pro', monospace;
+    max-width:35%;
+    max-height:50%;
+  position: absolute;
+  right: 37%;
+  bottom: 60%;}
+  img.greek{
+    position: absolute;
+  left: 70%;
+  bottom: 58%;
+}
