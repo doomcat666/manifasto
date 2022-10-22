@@ -61,3 +61,17 @@ h3{ color: red;
     bottom: 30%;
     left: 795px;
   }
+  img.fun{
+    max-width:10%;
+    max-height:50%;
+    position: absolute;
+    bottom: 55%;
+    left: 400px;
+  }
+  img.fun1{
+    max-width:10%;
+    max-height:50%;
+    position: absolute;
+    bottom: 55%;
+    right: 400px;
+  }

@@ -12,7 +12,7 @@ h3{
     max-height:50%;
   position: absolute;
   right: 47%;
-  bottom: 10%;
+  bottom: 1%;
 }
 
 .hover14 figure:hover img {
@@ -43,9 +43,19 @@ h2{ color: red;
     max-height:50%;
   position: absolute;
   right: 37%;
-  bottom: 60%;}
+  bottom: 70%;}
   img.greek{
     position: absolute;
   left: 70%;
   bottom: 58%;
+}
+img.blood{
+  position: absolute;
+  right: 40%;
+  bottom: 20%;
+}
+.p2{
+  color: red;
+    text-align: center;
+    font-family: 'Anonymous Pro', monospace;
 }
