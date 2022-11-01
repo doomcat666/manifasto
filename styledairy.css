@@ -75,3 +75,18 @@ h3{ color: red;
     bottom: 55%;
     right: 400px;
   }
+  img.star{
+    max-width:3%;
+    max-height:10%;
+    position: absolute;
+    bottom: 70%;
+    left: 800px;
+  }
+  img.star1{
+    max-width:3%;
+    max-height:10%;
+    position: absolute;
+    bottom: 70%;
+    right: 830px;
+  }
+ 

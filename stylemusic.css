@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: #80f2ec;
+    font-family: 'Anonymous Pro', monospace;
+}
+.p1{
+    text-align: center;
+    color: #80f2ec;
+    font-family: 'Anonymous Pro', monospace;
+}
+img.music{
+    max-width:20%;
+    max-height:15%;
+  position: absolute;
+  right: 43%;
+  bottom: 70%;
+}
+.music1{
+  position: absolute;
+  right: 35%;
+  bottom: 30%;
+}
+.p2{
+    text-align: center;
+    color: #80f2ec;
+    font-family: 'Caveat', cursive;
+    position: absolute;
+  right: 48%;
+  bottom: 12%;
+
+}
+img.cd{
+    max-width:20%;
+    max-height:10%;
+  position: absolute;
+  right: 85%;
+  bottom: 86%;
+}
+img.cd1{
+    max-width:20%;
+    max-height:10%;
+  position: absolute;
+  left: 85%;
+  bottom: 86%;
+}
+img.player{
+    max-width:20%;
+    max-height:9%;
+    position: absolute;
+    right: 43%;
+    bottom: 61%;
+  }

@@ -14,29 +14,6 @@ h3{
   right: 47%;
   bottom: 1%;
 }
-
-.hover14 figure:hover img {
-	opacity: 1;
-	-webkit-animation: flash 1.5s;
-	animation: flash 1.5s;
-    
-}
-@-webkit-keyframes flash {
-	0% {
-		opacity: .4;
-	}
-	100% {
-		opacity: 1;
-	}
-}
-@keyframes flash {
-	0% {
-		opacity: .4;
-	}
-	100% {
-		opacity: 1;
-	}
-}
 h2{ color: red;
     font-family: 'Anonymous Pro', monospace;
     max-width:35%;
@@ -44,18 +21,46 @@ h2{ color: red;
   position: absolute;
   right: 37%;
   bottom: 70%;}
-  img.greek{
-    position: absolute;
-  left: 70%;
-  bottom: 58%;
-}
-img.blood{
-  position: absolute;
-  right: 40%;
-  bottom: 20%;
-}
 .p2{
   color: red;
     text-align: center;
     font-family: 'Anonymous Pro', monospace;
+
+    position: absolute;
+    right: 20%;
+    bottom: 15%;
+}
+.imgg{
+  position: absolute;
+  left: 35%;
+  bottom: 40%;
+}
+.ghost{
+  max-width:100%;
+  max-height:100%;
+position: absolute;
+right: 25%;
+bottom: 35%;
+}
+.sfw{
+  color: red;
+  text-align: center;
+  font-family: 'Anonymous Pro', monospace;
+  text-decoration: none;
+
+}
+.nsfw{
+  color: red;
+  text-align: center;
+  font-family: 'Anonymous Pro', monospace;
+  text-decoration: none;
+}
+
+.hx{
+  color: red;
+  text-align: center; 
+  font-family: 'Anonymous Pro', monospace;
+  position: absolute;
+right: 25%;
+bottom: 35%
 }
